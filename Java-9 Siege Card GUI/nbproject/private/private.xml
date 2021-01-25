@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/SiegeUi/TextUI.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitAction.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/EnemyStats.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/SiegePanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/image/Card3.png</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitDrawCardPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitBeginningPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitSelectionRallyTroops.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/ObservableGame.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitAcabou.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Card5.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/IStates.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitArchersLocationPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/Files/FileUtility.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Card2.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/image/Card4.png</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/tp/TP.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Card3.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitExtraSelectionPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/SiegeFrame.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitSelectionCloseCombat.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitTunnelMovementPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitSelectionTunnelMovement.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/Resources.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Card6.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitActionPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitSelectionSupplyRaid.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Card1.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitExtraSelection.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Card4.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitBeginning.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Card7.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitRallyTroopsPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Player.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/StateAdapter.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitDrawCard.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitSelectionArchersTrack.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/States/AwaitSelectionBoilingWaterAttack.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/GameData.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitBoilingWaterLocationPanel.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/Game.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/Data/logica/Forte.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/TP/src/GuiStates/AwaitGameOverPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
